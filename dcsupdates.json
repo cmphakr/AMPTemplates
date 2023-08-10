@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "DCS Updating",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "Executable",
+        "UpdateSourceData": "C:\\Program Files\\Eagle Dynamics\\DCS World OpenBeta Server\\bin\\DCS_updater.exe",
+        "UpdateSourceArgs": "",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]

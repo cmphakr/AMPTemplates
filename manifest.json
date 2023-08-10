@@ -1,9 +1,10 @@
 {
-	"id": "5a0daa3e-fc0e-42a1-ad4a-d548ce4aa74f",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/cmphakr/AMPTemplates.git",
-	"url": "https://github.com/cmphakr/AMPTemplates",
-	"imagefile": "",
-	"prefix": "cmphakr",
-	"repotype": "AppTemplates"
+    "id": "5a0daa3e-fc0e-42a1-ad4a-d548ce4aa74f",
+    "authors": [
+        "Warlock"
+    ],
+    "origin": "https://github.com/Warlock/AMPTemplates.git",
+    "url": "https://github.com/Warlock/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Warlock"
 }
