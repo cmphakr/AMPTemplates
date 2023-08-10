@@ -1,9 +1,9 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
+	"id": "5a0daa3e-fc0e-42a1-ad4a-d548ce4aa74f",
 	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"origin": "https://github.com/cmphakr/AMPTemplates.git",
+	"url": "https://github.com/cmphakr/AMPTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "cmphakr",
 	"repotype": "AppTemplates"
 }
